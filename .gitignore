@@ -1,3 +1,4 @@
 AWS_MQTT/data/*
 Wifi_test/*.txt
 SPIFFS_read_test/data/*.txt
+WiFiClient/data/*.txt
